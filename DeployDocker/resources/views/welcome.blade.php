@@ -55,7 +55,7 @@
 
                             <div class="ml-12">
                                 <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">
-                                    Laravel Can suck my meat and balls
+                                    <h1>Priscilla needs to check on Xyliana</h1>
                                 </div>
                             </div>
                         </div>
