@@ -35,6 +35,7 @@
                     @endauth
                 </div>
             @endif
+            @extends('layouts.app')
 
             
         </div>
